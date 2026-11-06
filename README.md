@@ -6,6 +6,10 @@ and a client-area dashboard that works with the default theme and with [Tide](ht
 
 Requires FOSSBilling 0.8+ (PHP 8.3+), MySQL/MariaDB.
 
+## Preview
+
+<img width="1201" height="475" alt="Screenshot 2026-11-06 232008" src="https://github.com/user-attachments/assets/cb0a1808-9c90-4a4b-a3fd-3e9c8e488528" />
+
 ## Install
 
 ```bash
